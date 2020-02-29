@@ -309,7 +309,3 @@ while pge.running() do
     end
   end
 end
-
-
-
-
